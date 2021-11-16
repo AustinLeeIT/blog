@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Austin Lee IT's project blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Here you will find information on my current and past projects ...
